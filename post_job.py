@@ -1,6 +1,6 @@
 #importing replit database
 from replit import db
-
+db = db(db_url="https://kv.replit.com/your-database")
 
 #Let the user to post a job and save it on replit databse
 def post_job():
