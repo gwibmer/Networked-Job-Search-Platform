@@ -1,3 +1,3 @@
-#Networked-Job-Search-Platform
+# Networked-Job-Search-Platform
 
 This platform was developed using Python and MySQL to provide job seekers with an easy and efficient way to search for employment opportunities, build professional connections, create job listings, and apply for positions that match their qualifications and interests. The project was completed using the Scrum/Agile methodology with weekly sprints, allowing the team to regularly evaluate progress and make improvements. During the project, I had the opportunity to work with a talented team, collaborate with team members, and switch roles on a weekly basis to gain a well-rounded understanding of the project. This project allowed me to showcase my skills in Python programming, database management, and Agile development methodologies. 12/06/2022
